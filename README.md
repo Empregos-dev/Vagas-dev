@@ -1,5 +1,12 @@
-# Vagas-dev
-📢 Divulgação de vagas de tecnologia.
+<div align="center">
+  
+  ![Logo Empregos.dev](https://empregos.dev/static/images/logo-empregos-dev-dark.png)
+  #  Vagas DEV
+  📢 Divulgação de vagas de tecnologia.
 
-Lista das vagas em:
-https://github.com/Empregos-dev/Vagas-dev/issues
+  <br/><br/>
+  Lista das vagas em:
+  <br/>
+  https://github.com/Empregos-dev/Vagas-dev/issues
+  
+</div>
